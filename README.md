@@ -6,7 +6,7 @@
 
 ## Requirement
 
-* Nothing without unity
+* Nothing
 
 ## Install
 
