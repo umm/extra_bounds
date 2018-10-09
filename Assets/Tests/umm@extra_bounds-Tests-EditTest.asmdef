@@ -1,0 +1,14 @@
+{
+    "name": "umm@extra_bounds-Tests-EditTest",
+    "references": [
+        "umm@extra_bounds"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
