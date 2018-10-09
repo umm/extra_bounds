@@ -1,6 +1,6 @@
 {
   "name": "@umm/extra_bounds",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Calculate bounds for Unity3D objects",
   "homepage": "https://github.com/umm/extra_bounds",
   "bugs": {
