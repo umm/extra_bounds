@@ -4,8 +4,8 @@ using UnityModule.ExtraBounds;
 
 namespace EditTest.UnityModule.ExtraBounds
 {
-	public class RectExtensionTest : MonoBehaviour
-	{
+    public class RectExtensionTest : MonoBehaviour
+    {
         [Test]
         public void CalcOverlapAreaTest()
         {
@@ -21,5 +21,5 @@ namespace EditTest.UnityModule.ExtraBounds
             Assert.AreEqual(0.25f, rect1.CalcOverlapArea(rect2), 1e-6f);
             Assert.AreEqual(0.25f, rect2.CalcOverlapArea(rect3), 1e-6f);
         }
-	}
+    }
 }
